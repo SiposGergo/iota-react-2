@@ -1,7 +1,7 @@
 import React from "react";
 import Element from "./ElementClass"
 
-const Solids = (props) => (
+const Solids = () => (
     <Element text="Testek" color="red">
         <Element text="Gömb" color="blue"></Element>
         <Element text="Henger" color="blue"></Element>

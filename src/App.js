@@ -3,7 +3,7 @@ import './App.css';
 import Shapes from './Shapes';
 import Solids from './Solids';
 
-const App = (props) => (
+const App = () => (
   <div className="flex">
     <div className="w-50">
       <Shapes></Shapes>
